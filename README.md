@@ -12,21 +12,21 @@ The primary objective of this project is to perform Exploratory Data Analysis (E
 
 **Key Activities**:
 1.	Data Loading and Understanding:
-       o	Loaded the Titanic dataset using the Pandas library.
-       o	Inspected the data structure, including data types, missing values, and overall shape.
+        	Loaded the Titanic dataset using the Pandas library.
+         	Inspected the data structure, including data types, missing values, and overall shape.
 2.	Univariate Analysis:
-       o	Examined the distribution of numerical features like age and fare using histograms.
-       o	Analysed categorical features such as passenger class (Pclass) and port of embarkation (Embarked) using bar plots.
+       	        Examined the distribution of numerical features like age and fare using histograms.
+        	Analysed categorical features such as passenger class (Pclass) and port of embarkation (Embarked) using bar plots.
 3.	Bivariate Analysis:
-       o	Investigated relationships between features, focusing on how they influence the target variable (Survival).
-       o	Created bar plots to observe survival rates across different passenger classes.
-       o	Computed and visualized a correlation matrix using a heatmap to understand the relationships between numerical variables.
+        	Investigated relationships between features, focusing on how they influence the target variable (Survival).
+        	Created bar plots to observe survival rates across different passenger classes.
+        	Computed and visualized a correlation matrix using a heatmap to understand the relationships between numerical variables.
 4.	Handling Missing Values and Outliers:
-       o	Addressed missing values by filling in the median age and the most common port of embarkation.
-       o	Identified and handled outliers in the fare distribution by capping extreme values.
+        	Addressed missing values by filling in the median age and the most common port of embarkation.
+        	Identified and handled outliers in the fare distribution by capping extreme values.
 5.	Visualization:
-       o	Utilized Seaborn and Matplotlib to create histograms, bar plots, heatmaps, and pair plots for data visualization.
-       o	Visualized pairwise relationships among selected features to gain further insights.
+        	Utilized Seaborn and Matplotlib to create histograms, bar plots, heatmaps, and pair plots for data visualization.
+        	Visualized pairwise relationships among selected features to gain further insights.
 
 **#Technology Used**:
                        o	Python Programming Language: The core language used for data analysis and visualization.
