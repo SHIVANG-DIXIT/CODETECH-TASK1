@@ -8,6 +8,8 @@
 
 **Duration** : AUGUST 2024 TO SEPTEMBER 2024
 
+**Mentor**  : MUZAMMIL AHMED
+
 Project Overview: Titanic Dataset Exploratory Data Analysis (EDA)
 Objective:
 The primary objective of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset. EDA helps us understand the data’s characteristics, distributions, correlations, and outliers, providing insights into the factors influencing passenger survival rates on the Titanic. The analysis involves cleaning, visualizing, and interpreting data to draw meaningful conclusions.
